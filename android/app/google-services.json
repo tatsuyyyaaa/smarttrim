@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3306425049",
+    "project_id": "smarttrim-462ad",
+    "storage_bucket": "smarttrim-462ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3306425049:android:12a25fe047e1898fd00cc8",
+        "android_client_info": {
+          "package_name": "com.company.smarttrim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbvoTZA6gY5EF1fw1RdQl_izh70W0eFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3306425049:android:ee9d2834ac8e1021d00cc8",
+        "android_client_info": {
+          "package_name": "com.example.smarttrim_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbvoTZA6gY5EF1fw1RdQl_izh70W0eFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
